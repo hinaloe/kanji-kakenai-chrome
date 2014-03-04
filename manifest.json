@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "kanzi-kakenai",
-  "version": "0.1",
+  "name": "\u6f22\u5b57\u66f8\u3051\u306a\u301c\u3044",
+  "version": "0.2",
   "minimum_chrome_version": "23",
   "icons": {
     "16": "32.png",
