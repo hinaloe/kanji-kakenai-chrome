@@ -1,0 +1,3 @@
+[submodule "www"]
+	path = www
+	url = git@github.com:kimama1997/kanji-kakenai-chrome.git
