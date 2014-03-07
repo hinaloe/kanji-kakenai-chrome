@@ -1,0 +1,1 @@
+{"manifest_version":2,"name":"漢字書けな〜い","version":"0.2","minimum_chrome_version":"23","icons":{"16":"32.png","128":"144.png"},"app":{"background":{"scripts":["main.js"]}},"packageId":"com.your.company.HelloWorld","versionCode":1,"CFBundleVersion":"1.1.1"}
