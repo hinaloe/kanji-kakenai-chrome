@@ -17,12 +17,12 @@
        under the License.
  */
 
-package com.your.company.HelloWorld;
+package tk.hnle.kanji_kakenai;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class main extends CordovaActivity 
+public class main extends CordovaActivity  
 {
     @Override
     public void onCreate(Bundle savedInstanceState)
@@ -34,4 +34,5 @@ public class main extends CordovaActivity
         //super.loadUrl("file:///android_asset/www/index.html");
     }
 }
+
 
